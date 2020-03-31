@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MojiPodaci>
+<PunoIme>
+<Ime>Jovan</Ime>
+<Prezime>Jovanovic</Prezime>
+</PunoIme>
+<DatumRodjenja>
+<Dan>13</Dan>
+<Mesec>3</Mesec>
+<Godina>1993</Godina>
+</DatumRodjenja>
+<Adresa>
+<Ulica>Mije Musavka 11</Ulica>
+<Naselje>Cukarica</Naselje>
+<Grad>Beograd</Grad>
+<Drzava>Srbija</Drzava>
+<Ptt>11000</Ptt>
+</Adresa>
+</MojiPodaci>

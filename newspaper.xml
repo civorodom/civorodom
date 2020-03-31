@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE newspaper [
+<!ELEMENT article (headline,byline,lead,body,notes)>
+<!ELEMENT headline (#PCDATA)>
+<!ELEMENT byline (#PCDATA)>
+<!ELEMENT lead (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ELEMENT notes (#PCDATA)>
+]>
+
+<newspaper>
+<article>Krstarica</article>
+<headline>Naslov</headline>
+<byline>Tekst2</byline>
+<lead>Tekst3</lead>
+<body>Tekst4</body>
+<notes>Beleska</notes>
+</newspaper>
